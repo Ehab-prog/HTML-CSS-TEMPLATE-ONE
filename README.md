@@ -1,2 +1,4 @@
 # HTML-CSS-TEMPLATE-ONE
 HTML, CSS DESIGN 1
+
+## Project Notes
